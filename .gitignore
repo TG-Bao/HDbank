@@ -11,6 +11,7 @@ pnpm-lock.yaml
 
 # Build output
 /node_modules
+/legal-chatbot/node_modules
 /.next
 /out
 /build

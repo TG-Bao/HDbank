@@ -37,7 +37,7 @@ npm run dev
 NEXT_PUBLIC_SUPABASE_URL=https://abcdefghijklmnop.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
-OPENAI_API_KEY=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
+OPENAI_API_KEY=your_openai_api_key_here
 NEXT_PUBLIC_APP_URL=http://localhost:3000
 ```
 

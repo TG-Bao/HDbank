@@ -11,7 +11,7 @@ NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key_here
 SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
 
 # OpenAI Configuration (đã có sẵn)
-OPENAI_API_KEY=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
+OPENAI_API_KEY=your_openai_api_key_here
 
 # n8n Webhook URL (tùy chọn)
 N8N_WEBHOOK_URL=your_n8n_webhook_url
