@@ -1,0 +1,10 @@
+{
+  "/admin/page": "app/admin/page.js",
+  "/api/chat/save-simple/route": "app/api/chat/save-simple/route.js",
+  "/api/chat/sessions-public/route": "app/api/chat/sessions-public/route.js",
+  "/api/laws/[id]/route": "app/api/laws/[id]/route.js",
+  "/api/scrape-gov-docs/route": "app/api/scrape-gov-docs/route.js",
+  "/api/upload-test/route": "app/api/upload-test/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js"
+}

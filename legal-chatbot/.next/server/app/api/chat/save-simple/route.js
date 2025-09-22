@@ -1,0 +1,10 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/chat/save-simple/route.js")
+R.c("server/chunks/8fc93_@supabase_node-fetch_lib_index_d0286ea0.js")
+R.c("server/chunks/8fc93_next_dad0aae9._.js")
+R.c("server/chunks/8fc93_tr46_5f6b49df._.js")
+R.c("server/chunks/8fc93_@supabase_auth-js_dist_module_9209a2f6._.js")
+R.c("server/chunks/8fc93_741dd265._.js")
+R.c("server/chunks/[root-of-the-server]__891c06e4._.js")
+R.m("[project]/legal-chatbot/.next-internal/server/app/api/chat/save-simple/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/legal-chatbot/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/legal-chatbot/src/app/api/chat/save-simple/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/legal-chatbot/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/legal-chatbot/src/app/api/chat/save-simple/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports

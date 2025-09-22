@@ -1,0 +1,35 @@
+{
+  "sorted_middleware": [],
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/legal-chatbot_f5181f86._.js",
+        "server/edge/chunks/[root-of-the-server]__22af99ca._.js",
+        "server/edge/chunks/turbopack-legal-chatbot_edge-wrapper_918e5581.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/api/upload/:path*{(\\\\.json)}?",
+          "originalSource": "/api/upload/:path*"
+        },
+        {
+          "regexp": "/:nextData(_next/data/[^/]{1,})?/api/admin/:path*{(\\\\.json)}?",
+          "originalSource": "/api/admin/:path*"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "+63gqyRWzIyPb89kOaSPOXzYwF70pVC2hXGIB55qxzM=",
+        "__NEXT_PREVIEW_MODE_ID": "6c5891cdc1560f2539ee0a157508c9d4",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "5303fb581c530605d25c1ef927106ab6dd1f0dc751d0c429a5c27126e024468e",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "53c875d8dd76f80d463e8202785f6c96878833637786108cd3c15d10cd582402"
+      }
+    }
+  },
+  "instrumentation": null,
+  "functions": {}
+}

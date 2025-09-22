@@ -1,0 +1,10 @@
+var R=require("../../../chunks/[turbopack]_runtime.js")("server/app/api/upload-direct/route.js")
+R.c("server/chunks/8fc93_@supabase_node-fetch_lib_index_d0286ea0.js")
+R.c("server/chunks/8fc93_next_d6c4de75._.js")
+R.c("server/chunks/8fc93_tr46_5f6b49df._.js")
+R.c("server/chunks/8fc93_@supabase_auth-js_dist_module_9209a2f6._.js")
+R.c("server/chunks/8fc93_1ad33d95._.js")
+R.c("server/chunks/[root-of-the-server]__1da57ddb._.js")
+R.m("[project]/legal-chatbot/.next-internal/server/app/api/upload-direct/route/actions.js [app-rsc] (server actions loader, ecmascript)")
+R.m("[project]/legal-chatbot/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/legal-chatbot/src/app/api/upload-direct/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)")
+module.exports=R.m("[project]/legal-chatbot/node_modules/next/dist/esm/build/templates/app-route.js { INNER_APP_ROUTE => \"[project]/legal-chatbot/src/app/api/upload-direct/route.ts [app-route] (ecmascript)\" } [app-route] (ecmascript)").exports
